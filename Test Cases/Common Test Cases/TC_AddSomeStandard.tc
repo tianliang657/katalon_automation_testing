@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AddSomeStandard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f789eb2c-6be3-4ca9-9be6-cb753fb4ae1d</testCaseGuid>
+   <variable>
+      <defaultValue>21</defaultValue>
+      <description>重复次数</description>
+      <id>5d700d0b-37bf-47b5-a231-1d52a9924a74</id>
+      <masked>false</masked>
+      <name>Count</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description>上传次数</description>
+      <id>a83fbb1f-61da-4a7f-b54e-e045e32611a3</id>
+      <masked>false</masked>
+      <name>UploadNum</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description>标准名称</description>
+      <id>5102a2dd-1e09-4024-9a05-12717549a587</id>
+      <masked>false</masked>
+      <name>StandardName</name>
+   </variable>
+   <variable>
+      <defaultValue>'这是一个参考标准'</defaultValue>
+      <description>标准描述</description>
+      <id>43e53fff-18d1-4ae2-8921-3ce43004c723</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

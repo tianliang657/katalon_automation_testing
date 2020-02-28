@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_All,Chrome 79.0.3945.130,,,2020-02-14 20:40:54,2020-02-14 20:41:02,7.263s,FAILED
+,,,,,,,
+Test Cases/Master Data Platform/Standard Management/TC_ReferenceStandardManagement,Chrome 79.0.3945.130,,,2020-02-14 20:40:55,2020-02-14 20:41:02,7.144s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 79.0.3945.130,,,2020-02-14 20:40:55,2020-02-14 20:41:02,6.935s,ERROR
+"navigateToUrl(""http://172.17.207.171:81/standard/reference-standard"")",Chrome 79.0.3945.130,,,2020-02-14 20:41:02,2020-02-14 20:41:02,0.017s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 79.0.3945.130,,,2020-02-14 20:41:02,2020-02-14 20:41:02,0.082s,PASSED
